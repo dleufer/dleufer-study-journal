@@ -1,3 +1,4 @@
+# add, commit recent changes
 git add .
 git commit -m 'clearing /docs'
 git checkout master
@@ -14,8 +15,9 @@ cp -rf ./_book/. ./docs/
 rm -rf _book
 # commit recent build
 git add .
-git commit -m 'building'
-
+git commit -m 'publishing'
+# publish changes
+git push elewa master
 
 # to execute this file run this command in terminal:
-# chmod a+x ./build.sh
+# chmod a+x ./publish.sh
