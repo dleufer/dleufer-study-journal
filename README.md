@@ -1,9 +1,9 @@
 # Study Journal Template
 
-88888 
+88888
 
-Fork this repo and make it your own.  You will use it for the remainder of this curriculum to organize, review, and share your notes.  Completing this repo will turn your notes into a powerful study & review tool, a showcase of your knowledge, and substantial practice with organizing and deploying projects to GitHub.
- 
+This is me making the repo my own.
+
 Initial setup
 * Fork this repo
 * Set gh-pages settings to build from "master /docs"
@@ -21,7 +21,7 @@ Concepts GitBook:
 Quizzes:
 * You will use [this quiz plugin](https://github.com/chudaol/gitbook-plugin-quiz) to write self-review quizzes for your notes.  The quizzes will be live and interactive on your journal's url.
 
-Directory Structure Explained: 
+Directory Structure Explained:
 ```
 study-journal
 |-- /xx-yy_aa-bb
