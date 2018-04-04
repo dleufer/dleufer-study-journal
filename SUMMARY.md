@@ -6,7 +6,7 @@
 * [Git & GitHub](./concepts/git-github.md)
   * [Quiz](./quizzes/git-github.md)
 * [Repo](https://github.com/elewa-academy/study-journal-template)
-* [Home (your portfolio)](https://elewa-academy.github.io)
+* [Home (your portfolio)](https://github.com/dleufer)
 
 
 ___
