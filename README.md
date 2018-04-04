@@ -2,15 +2,7 @@
 
 88888
 
-This is me making the repo my own.
-
-Initial setup
-* Fork this repo
-* Set gh-pages settings to build from "master /docs"
-  * This will host your notes live at "user_name".github.io/"repo_name"
-* Clone the repo
-* Run "npm install -g gitbook-cli && gitbook install" in the cloned directory
-* Run "chmod a+x ./scripts/publish.sh" in the cloned directory
+The repo is now mine. Prepare for an onslaught of notes.
 
 To Publish:  
 * Type "./scripts/publish.sh" from terminal in your Journal directory
@@ -19,7 +11,7 @@ Concepts GitBook:
 * Your GitBook will look [something like this](https://elewa-academy.github.io/study-journal-template/).
 
 Quizzes:
-* You will use [this quiz plugin](https://github.com/chudaol/gitbook-plugin-quiz) to write self-review quizzes for your notes.  The quizzes will be live and interactive on your journal's url.
+* This is the [quiz plugin](https://github.com/chudaol/gitbook-plugin-quiz). The quizzes will be live and interactive on your journal's url.
 
 Directory Structure Explained:
 ```
