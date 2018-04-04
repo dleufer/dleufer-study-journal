@@ -1,4 +1,4 @@
-# Study Journal Template
+# Daniel's Study Journal
 
 88888
 
