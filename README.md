@@ -9,7 +9,7 @@ Initial setup
 * Set gh-pages settings to build from "master /docs"
   * This will host your notes live at "user_name".github.io/"repo_name"
 * Clone the repo
-* Run "npm install -g gitbook && gitbook install" in the cloned directory
+* Run "npm install -g gitbook-cli && gitbook install" in the cloned directory
 * Run "chmod a+x ./scripts/publish.sh" in the cloned directory
 
 To Publish:  
