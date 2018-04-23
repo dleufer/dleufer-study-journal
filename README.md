@@ -1,9 +1,6 @@
 # Daniel's Study Journal
 
-88888
-
 The repo is now mine. Prepare for an onslaught of notes.
-I want to push to check if it works.
 
 To Publish:  
 * Type "./scripts/publish.sh" from terminal in your Journal directory
